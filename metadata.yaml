@@ -1,0 +1,42 @@
+_repo: Racketty-Packetty-House-as-Told-by-Queen-Crosspatch_8574
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cady, Harrison
+    aliases:
+    - Cady, Walter Harrison
+    - Cady, W. Harrison (Walter Harrison)
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '8456'
+    url: http://www.gutenberg.org/2009/agents/8456
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Dolls -- Juvenile fiction'
+- GITenberg
+title: Racketty-Packetty House, as Told by Queen Crosspatch
+url: http://www.gutenberg.org/ebooks/8574
